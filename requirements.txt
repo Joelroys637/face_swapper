@@ -1,8 +1,6 @@
 dlib-19.24.1-cp311-cp311-win_amd64.whl
 cmake
-dlib
 opencv-python
 numpy
 imutils
-pybind11
 streamlit
