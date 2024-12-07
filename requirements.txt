@@ -1,6 +1,6 @@
 dlib-19.24.1-cp311-cp311-win_amd64.whl
 imutils
-dlib
+dlib==19.22.99
 face_utils
 opencv-python
 opencv-python-headless
