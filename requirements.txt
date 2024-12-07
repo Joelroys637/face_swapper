@@ -3,4 +3,5 @@ imutils
 dlib
 face_utils
 opencv-python
+opencv-python-headless
 streamlit
