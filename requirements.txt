@@ -1,5 +1,4 @@
 dlib==19.22.0
-dlib-19.24.1-cp311-cp311-win_amd64.whl
 cmake
 opencv-contrib-python==4.10.0.84
 opencv-python==4.10.0.84
