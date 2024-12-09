@@ -1,2 +1,3 @@
 libgl1-mesa-glx
+dlib
 _dlib_pybind11
